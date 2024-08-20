@@ -1,0 +1,20 @@
+body{
+  background-color: rgb(0, 152, 152); 
+  font-family: PiBoto, Ubuntu, Sans-Serif;
+} 
+footer{
+  background-color: grey;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: bottom;
+  bottom: 1;
+  width: 100%;
+}
+.container {
+  margin-left: 1px;
+  border-left: 1px solid magenta;
+  padding: 1em;
+  overflow: hidden;
+  color: black;
+}
