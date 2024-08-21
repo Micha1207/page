@@ -13,7 +13,7 @@ footer{
 }
 .container {
   margin-left: 1px;
-  border-left: 1px solid magenta;
+  border-left: 2px solid magenta;
   padding: 1em;
   overflow: hidden;
   color: black;
