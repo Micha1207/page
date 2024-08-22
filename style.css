@@ -18,6 +18,6 @@ footer{
   overflow: hidden;
   color: black;
 }
-warn{
+.warn{
   color: red;
 }
