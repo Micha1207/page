@@ -1,7 +1,7 @@
 const canvas = document.getElementById('fireworks');
 const ctx = canvas.getContext('2d');
-canvas.width = window.innerWidth;
-canvas.height = window.innerHeight;
+canvas.width = 355;
+canvas.height = 250;
 
 class Particle {
     constructor(x, y, color) {
