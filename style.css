@@ -25,12 +25,12 @@ hr {
 }
 
 a:link {
-  color: cyan;
+  color: lightblue;
 }
 
 /* visited link */
 a:visited {
-  color: green;
+  color: lightgreen;
 }
 
 /* mouse over link */
